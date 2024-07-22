@@ -1,0 +1,1 @@
+Starter HTML project which includes creating links, images, formatting text on the website and practicing HTML.
